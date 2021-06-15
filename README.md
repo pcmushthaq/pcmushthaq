@@ -1,16 +1,24 @@
-### Hi there, I'm Mushthaq 👋
+<h3 align="center">👋 Hi there! I'm Mushthaq</h3>
+<p align="center">
+  <a href="mailto:pcmushthaq@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/pcmushthaq/">LinkedIn</a> 
+  
+</p>
+
+---
+
+
+I am a Flutter developer and a student from College of Engineering, Trivandrum. I am also interested in Data Science, specifically Football Analytics.
+
+
+- 🔭 I’m currently working with Flutter.
+- 🌱 I’m currently learning Football Analytics.
+
 
 <!--
-**pcmushthaq/pcmushthaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Languages and Tools
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img height="26" width="26" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" />
 -->
