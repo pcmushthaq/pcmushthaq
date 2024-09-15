@@ -8,11 +8,10 @@
 ---
 
 
-I am a Flutter developer and a student from College of Engineering, Trivandrum. I am also interested in Data Science, especially Football Analytics.
+I am a C++ Developer with expertise in Qt and Linux. My previous experience includes mobile and web application development with flutter and dart.
 
 
-- 🔭 I’m currently working as a Freelance Flutter Developer.
-- 🌱 I’m currently learning Football Analytics.
+- 🔭 I’m currently working as a Software Engineer.
 
 
 <!--
